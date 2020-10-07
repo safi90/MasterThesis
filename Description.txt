@@ -1,0 +1,3 @@
+The DataGeneration.R file contains the R code used to initially simulate the data in the thesis. This data was
+subsequently analyzed with the code written in the AnalysisOverall.R file respectively in the AnalysisPerDistribution.R
+file.
